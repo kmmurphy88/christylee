@@ -9,7 +9,11 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
+<<<<<<< HEAD
 gem 'aws-sdk'
+=======
+gem 'simple_form'
+>>>>>>> eb7df6f21a430dc31154e1a581f523c4d71fd294
 
 # Use Capistrano for deployment
 gem 'capistrano-rails', group: :development
